@@ -1,0 +1,40 @@
+{
+  "name": "pupstagram",
+  "version": "1.0.0",
+  "description": "A demo app featuring Apollo Client, React Apollo v2.1, and Apollo Link State 🐶\n \nGraphQL server: https://glitch.com/edit/#!/dog-graphql-api",
+  "keywords": [
+    "apollo-link-state",
+    "react",
+    "apollo",
+    "graphql",
+    "apollo-client"
+  ],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "apollo-boost": "0.1.18",
+    "graphql": "14.0.2",
+    "react": "16.7.0-alpha.0",
+    "react-apollo-hooks": "0.0.2",
+    "react-art": "16.7.0-alpha.0",
+    "react-dom": "16.7.0-alpha.0",
+    "react-fast-compare": "^2.0.2",
+    "react-native-web": "0.9.4",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "2.0.5",
+    "recyclerlistview": "1.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
